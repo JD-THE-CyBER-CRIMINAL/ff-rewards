@@ -45,7 +45,7 @@
 .second-header{
     height: 40px;
     width: 100%;
-    padding: 2px 10px;
+    
     border: 1px solid black;
     background: red;
 }
@@ -60,7 +60,7 @@
     color: white;
     font-weight: bold;
     text-decoration: none;
-    padding: 8px 7px;
+    padding: 6px 7px;
     line-height: 45px;
 }
 

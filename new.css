@@ -103,7 +103,7 @@
     border-left: 1px solid black;
     display: flex;
     margin: auto;
-    background-color: rgb(0,0,0,0.5);
+    background-color: white;
 }
 
 .claim div a{

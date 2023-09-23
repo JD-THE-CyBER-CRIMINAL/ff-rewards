@@ -97,13 +97,13 @@
 
 .claim{
     height: 30px;
-    width: 60%;
+    width: 10%;
     border-bottom: 1px solid black;
     border-right: 1px solid black;
     border-left: 1px solid black;
     display: flex;
     margin: auto;
-    background-color: yellow;
+    background-color: #FFB32C;
 }
 
 .claim div a{
